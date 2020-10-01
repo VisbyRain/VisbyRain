@@ -4,7 +4,7 @@ I'm Majoring in Computer Science at WSU Pullman, and these days I'm contributing
 ### Interest
 * Quantum Computing and Quantum Cryptography/Communication
 * Technical Writing
-* Computational Astronomy (**I LOVE VLBI!!**)
+* Computational Astronomy (**VLBI, especially.**)
 * GNU/Linux (Debian/Arch)
 * Tea 🍵
 * Fountain Pen 🖋️
