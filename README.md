@@ -3,6 +3,7 @@ I'm Majoring in Computer Science at WSU Pullman, and these days I'm contributing
 
 ### Interest
 * Quantum Computing and Quantum Cryptography/Communication
+* Translating books/documents
 * Technical Writing
 * Computational Astronomy
 * GNU/Linux (Debian/Arch)
